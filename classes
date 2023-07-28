@@ -1,0 +1,54 @@
+    General Styling for Cards:
+        .card.shoelace-card
+        .card-title
+        .card-text
+
+    General Styling for Headings and Paragraphs:
+        .shoelace-heading
+        .shoelace-paragraph
+
+    Styling for Images:
+        .shoelace-image
+
+    Styling for Buttons and Links:
+        .btn
+        .shoelace-btn
+        .nav-link
+
+    Styling for the Navbar:
+        .navbar
+
+    Styling for Lists, Quotes, and Forms:
+        .shoelace-list
+        .shoelace-quote
+        .shoelace-form
+
+    Hover Effect for Buttons and Links:
+        .btn:hover
+        .shoelace-btn:hover
+        .nav-link:hover
+
+    Additional Styling for the Footer:
+        .footer
+
+    Additional Unique Elements:
+        .shoelace-feature
+        .shoelace-feature-title
+        .shoelace-feature-description
+
+
+
+
+
+        >Responsive Design</h5>
+                            <p class="card-text shoelace-feature-description">Create websites that look great on all
+                                devices and screen sizes.</p>
+
+
+                                ">Easy to Use</h5>
+                            <p class="card-text shoelace-feature-description">Simple and intuitive classes for fast
+                                development.</p>
+
+                                >Dark Theme</h5>
+                            <p class="card-text shoelace-feature-description">Enjoy a sleek and modern dark theme for
+                                your projects.</p>
